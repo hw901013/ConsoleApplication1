@@ -14,7 +14,7 @@ namespace ConsoleApplication1
         {
             string host = "localhost";
             string elementKey = "testKeyRedis";
-
+            string a = "1";
             using (RedisClient redisClient = new RedisClient(host))
             {
                 if (redisClient.Get<string>(elementKey) == null)
@@ -33,6 +33,7 @@ namespace ConsoleApplication1
 
                 Console.WriteLine(message);
                 Console.ReadLine();
+               
             }
         }
     }

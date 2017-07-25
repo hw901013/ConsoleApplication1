@@ -1,1 +1,13 @@
 C:\Users\hw901\Documents\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\hw901\Documents\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\hw901\Documents\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\hw901\Documents\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Common.dll
+C:\Users\hw901\Documents\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\hw901\Documents\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Redis.dll
+C:\Users\hw901\Documents\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Text.dll
+C:\Users\hw901\Documents\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Common.xml
+C:\Users\hw901\Documents\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\hw901\Documents\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Redis.xml
+C:\Users\hw901\Documents\ConsoleApplication1\ConsoleApplication1\bin\Debug\ServiceStack.Text.xml
+C:\Users\hw901\Documents\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\hw901\Documents\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
